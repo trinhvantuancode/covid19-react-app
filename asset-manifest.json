@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/covid19-react-app/static/css/main.8727589f.css",
+    "main.js": "/covid19-react-app/static/js/main.63731aa7.js",
+    "static/js/912.38bb6944.chunk.js": "/covid19-react-app/static/js/912.38bb6944.chunk.js",
+    "index.html": "/covid19-react-app/index.html",
+    "main.8727589f.css.map": "/covid19-react-app/static/css/main.8727589f.css.map",
+    "main.63731aa7.js.map": "/covid19-react-app/static/js/main.63731aa7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8727589f.css",
+    "static/js/main.63731aa7.js"
+  ]
+}
